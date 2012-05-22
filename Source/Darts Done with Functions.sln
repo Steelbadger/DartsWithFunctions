@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Darts Done with Functions", "Darts Done with Functions\Darts Done with Functions.vcproj", "{28537EB0-058A-4604-89F8-E5C2F59C1EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28537EB0-058A-4604-89F8-E5C2F59C1EA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28537EB0-058A-4604-89F8-E5C2F59C1EA7}.Debug|Win32.Build.0 = Debug|Win32
+		{28537EB0-058A-4604-89F8-E5C2F59C1EA7}.Release|Win32.ActiveCfg = Release|Win32
+		{28537EB0-058A-4604-89F8-E5C2F59C1EA7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
